@@ -1,0 +1,10 @@
+Variables: Se escribe 'var' sirve para almacenar los datos de alguna palabra por ejemplo; var 'holaGente' ,se usa generalmente así
+
+
+Instrumentos de cuerda: El 'string' se usa para declarar una variable
+
+Funciones (argumentos, return): Se usa para devolver una respuesta por ejemplo; return x + y ;
+
+Declaracionesif: Se utiliza de manera afirmativa por ejemplo; if (x === y) ;
+
+Valores booleanos ( true, false): Tienen un significado sencillo pero importante el true; verdadero y el false; falso
